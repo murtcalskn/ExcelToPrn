@@ -1,0 +1,10 @@
+D:\SahaCalisma\ToPrn\ExcelToPrn\ExcelToPrn\bin\Debug\ExcelToPrn.exe.config
+D:\SahaCalisma\ToPrn\ExcelToPrn\ExcelToPrn\bin\Debug\ExcelToPrn.exe
+D:\SahaCalisma\ToPrn\ExcelToPrn\ExcelToPrn\bin\Debug\ExcelToPrn.pdb
+D:\SahaCalisma\ToPrn\ExcelToPrn\ExcelToPrn\obj\Debug\ExcelToPrn.Form1.resources
+D:\SahaCalisma\ToPrn\ExcelToPrn\ExcelToPrn\obj\Debug\ExcelToPrn.Properties.Resources.resources
+D:\SahaCalisma\ToPrn\ExcelToPrn\ExcelToPrn\obj\Debug\ExcelToPrn.csproj.GenerateResource.cache
+D:\SahaCalisma\ToPrn\ExcelToPrn\ExcelToPrn\obj\Debug\ExcelToPrn.csproj.CoreCompileInputs.cache
+D:\SahaCalisma\ToPrn\ExcelToPrn\ExcelToPrn\obj\Debug\ExcelToPrn.exe
+D:\SahaCalisma\ToPrn\ExcelToPrn\ExcelToPrn\obj\Debug\ExcelToPrn.pdb
+D:\SahaCalisma\ToPrn\ExcelToPrn\ExcelToPrn\obj\Debug\ExcelToPrn.csprojAssemblyReference.cache
